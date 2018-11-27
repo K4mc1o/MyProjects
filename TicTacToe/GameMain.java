@@ -1,4 +1,4 @@
-package ProgramowanieObiektowe.TicTacToe;
+package TicTacToe;
 
 public class GameMain {
     public static void main(String[] args) {
