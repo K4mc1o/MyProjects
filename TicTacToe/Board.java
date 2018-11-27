@@ -1,4 +1,4 @@
-package ProgramowanieObiektowe.TicTacToe;
+package TicTacToe;
 
 public class Board {
     public static final int BOARD_SIZE = 3;
