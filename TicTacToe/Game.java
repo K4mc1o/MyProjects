@@ -1,4 +1,4 @@
-package ProgramowanieObiektowe.TicTacToe;
+package TicTacToe;
 
 public class Game {
     private Board board;
