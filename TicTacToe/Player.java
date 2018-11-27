@@ -1,4 +1,4 @@
-package ProgramowanieObiektowe.TicTacToe;
+package TicTacToe;
 
 import java.util.Scanner;
 
